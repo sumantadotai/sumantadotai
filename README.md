@@ -24,7 +24,7 @@ products for healthcare startups at BuildFound.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 ![AI SDK](https://img.shields.io/badge/AI%2FLLM-%2312A37F.svg?style=flat&logo=openai&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumantadotai&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sumantadotai&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
 ## Mailora
 
