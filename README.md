@@ -2,7 +2,7 @@
 
 Full-stack developer who ships things end to end — backend, frontend, infra — across Go and the
 JS/TS ecosystem, and spends a good chunk of time building with and on AI. Currently building AI
-products for healthcare startups at BuildFound.
+products for healthcare startups.
 
 [sumanta.ai](https://sumanta.ai) · [LinkedIn](https://linkedin.com/in/sumanta-kabiraj) ·
 [sumantablog@gmail.com](mailto:sumantablog@gmail.com)
@@ -10,7 +10,7 @@ products for healthcare startups at BuildFound.
 ## 💫 About Me
 
 - 💻 Full-stack developer, Go + JS/TS ecosystem
-- 🚀 Building AI products for healthcare startups at BuildFound
+- 🚀 Building AI products for healthcare startups
 - ⚡ Next.js, React, Astro, Node.js, Python, Go
 - 🗄️ PostgreSQL, MongoDB, Redis, SQLite
 - 🔐 Secure auth (Azure B2C, OAuth) and scalable backends
