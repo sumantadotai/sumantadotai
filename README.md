@@ -7,6 +7,16 @@ products for healthcare startups at BuildFound.
 [sumanta.ai](https://sumanta.ai) · [LinkedIn](https://linkedin.com/in/sumanta-kabiraj) ·
 [sumantablog@gmail.com](mailto:sumantablog@gmail.com)
 
+## 💫 About Me
+
+- 💻 Full-stack developer, Go + JS/TS ecosystem
+- 🚀 Building AI products for healthcare startups at BuildFound
+- ⚡ Next.js, React, Astro, Node.js, Python, Go
+- 🗄️ PostgreSQL, MongoDB, Redis, SQLite
+- 🔐 Secure auth (Azure B2C, OAuth) and scalable backends
+- 🌱 Pursuing an MCA in AI, ML & Data Science
+- 📫 [sumantablog@gmail.com](mailto:sumantablog@gmail.com)
+
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
